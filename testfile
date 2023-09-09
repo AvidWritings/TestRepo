@@ -1,4 +1,4 @@
 The is a test file created for demo purpose by karthik from Hyderabad.
-
 Jenkins is a heart of devops lifecycle, provides 360 view of software delivery lifecycle.
- 
+ The tested application is automatically is deployed to the production server for release.
+This is continously monitored by tools like nagios, splunk, etc.
